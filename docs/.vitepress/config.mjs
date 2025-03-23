@@ -7,6 +7,7 @@ export default defineConfig({
   lang: 'en-US',
   title: "VAULT 777",
   description: "VAULT777 Documentation & Help",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   //lastUpdated: true,
   locales: {
     root: {
