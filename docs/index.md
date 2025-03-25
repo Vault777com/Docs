@@ -12,32 +12,32 @@ hero:
   actions:
     - theme: brand
       text: Quick Start
-      link: /markdown-examples
+      link: /General/quickstart.md
     - theme: alt
-      text: Smart Contracts
-      link: /api-examples
+      text: About
+      link: /General/about.md
     - theme: alt
       text: Read on GitHub
-      link: /api-examples
+      link: https://github.com/Vault777com
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature D
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature E
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature F
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature G
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature H
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature I
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Non-Custodial Betting
+    details: Play directly from your wallet. No deposits, no lock-ins — full user control over your funds at all times.
+  - title: Provably Fair Games
+    details: Every outcome is determined by Chainlink VRF, ensuring transparency, fairness, and zero manipulation.
+  - title: Multi-Chain Support
+    details: Choose your preferred chain Ethereum, Arbitrum, zkSync, Starknet, BNB Chain, and more coming soon.
+  - title: On-Chain Game Execution
+    details: All games run on audited smart contracts. Results, bets, and payouts are verifiable on-chain forever.
+  - title: DAO Governance
+    details: Vault777 is governed by its community through the $V777 token. Propose and vote on all major decisions.
+  - title: Reward Systems
+    details: Earn $V777 tokens, leaderboard points, and NFT perks just by playing, referring, or engaging socially.
+  - title:  Leaderboards & Airdrops
+    details: Climb the ranks through wagering, winning, and referrals. Top players qualify for seasonal airdrops.
+  - title: LP & Treasury Yield
+    details: Provide liquidity to earn yield from betting volume. LPs are protected using risk-managed strategies.
+  - title: Transparent Economics
+    details: No hidden fees or black-box systems. All earnings, payouts, and emissions are tracked and governed on-chain.
 ---
 

@@ -5,8 +5,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   cleanUrls: true,
   lang: 'en-US',
-  title: "VAULT 777",
-  description: "VAULT777 Documentation & Help",
+  title: "VAULT777 Docs",
+  description: "Official documentation for Vault777 — the decentralized on-chain casino.",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   //lastUpdated: true,
   locales: {
@@ -29,41 +29,44 @@ export default defineConfig({
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/General/About.md' },
-      { text: 'Quick Start', link: '/markdown-examples' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'About', link: '/General/about.md' },
+      { text: 'Quick Start', link: '/General/quickstart.md' },
       {
-        text: 'Games',
+        text: 'Features',
         items: [
-          { text: 'Dice', link: '/Games/House Originals/Dice.md' },
-          { text: 'Plinko', link: '/Games/House Originals/Plinko.md' },
-          { text: 'Slots', link: '/Games/House Originals/Slots.md' },
-          { text: 'Mines', link: '/Games/House Originals/Mines.md' },
-          { text: 'Video Poker', link: '/Games/House Originals/Video Poker.md' },
-          { text: 'Rock Paper Scissors', link: '/Games/House Originals/Rock Paper Scissors.md' },
-          { text: 'Coin Flip', link: '/Games/House Originals/Coin Flip.md' }
+          { text: 'Decentralized Betting Protocol', link: '/General/decentralized-betting.md' },
+          { text: 'Chainlink VRF Explained', link: '/General/chainlink-vrf.md' },
+          { text: 'Multi-Chain Integration', link: '/General/multichain.md' },
+          { text: 'Games Ecosystem', link: '/General/games.md' },
+          { text: 'Governance: & DAO', link: '/General/governance.md' },
+          { text: 'Leaderboards & Incentives', link: '/General/leaderboards.md' },
+          { text: 'Social & Referral System', link: '/General/social-referrals.md' },
+          { text: 'Risk Management (Kelly Criterion)', link: '/General/kelly-criterion.md' },
+          { text: 'Security & Transparency', link: '/General/security.md' }
         ]
       }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'General',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'About', link: '/General/about.md' },
+          { text: 'Quick Start', link: '/General/quickstart.md' },
         ]
       },
       {
-        text: 'Games: House Originals',
+        text: 'Features',
         items: [
-          { text: 'Dice', link: '/Games/House Originals/Dice.md' },
-          { text: 'Plinko', link: '/Games/House Originals/Plinko.md' },
-          { text: 'Slots', link: '/Games/House Originals/Slots.md' },
-          { text: 'Mines', link: '/Games/House Originals/Mines.md' },
-          { text: 'Video Poker', link: '/Games/House Originals/Video Poker.md' },
-          { text: 'Rock Paper Scissors', link: '/Games/House Originals/Rock Paper Scissors.md' },
-          { text: 'Coin Flip', link: '/Games/House Originals/Coin Flip.md' }
+          { text: 'Decentralized Betting Protocol', link: '/General/decentralized-betting.md' },
+          { text: 'Chainlink VRF Explained', link: '/General/chainlink-vrf.md' },
+          { text: 'Multi-Chain Integration', link: '/General/multichain.md' },
+          { text: 'Games Ecosystem', link: '/General/games.md' },
+          { text: 'Governance: & DAO', link: '/General/governance.md' },
+          { text: 'Leaderboards & Incentives', link: '/General/leaderboards.md' },
+          { text: 'Social & Referral System', link: '/General/social-referrals.md' },
+          { text: 'Risk Management (Kelly Criterion)', link: '/General/kelly-criterion.md' },
+          { text: 'Security & Transparency', link: '/General/security.md' }
         ]
       },
       
@@ -76,7 +79,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'homepage', link: 'https://vault777.com' },
-      { icon: 'github', link: 'https://github.com/Vault777com/dapp' },
+      { icon: 'github', link: 'https://github.com/Vault777com' },
       { icon: 'x', link: 'https://x.com' },
       { icon: 'discord', link: 'https://discord.gg' },
       { icon: 'telegram', link: 'https://t.me' }
