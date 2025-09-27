@@ -31,7 +31,7 @@ export default defineConfig({
       { text: 'About', link: '/General/about.md' },
       { text: 'Quick Start', link: '/General/quickstart.md' },
       {
-        text: 'Features',
+        text: 'Platform Features',
         items: [
           { text: 'Decentralized Betting Protocol', link: '/General/decentralized-betting.md' },
           { text: 'Chainlink VRF Explained', link: '/General/chainlink-vrf.md' },
@@ -56,7 +56,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Features',
+        text: 'Platform Features',
         items: [
           { text: 'Decentralized Betting Protocol', link: '/General/decentralized-betting.md' },
           { text: 'Chainlink VRF Explained', link: '/General/chainlink-vrf.md' },

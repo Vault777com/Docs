@@ -10,13 +10,15 @@ Vault777 is a **multi-chain decentralized casino**, allowing users to place bets
 
 Vault777 supports a range of EVM-compatible chains with more to come via DAO governance:
 
-### ✅ Live Chains
+### Live Chains
 
-- **Ethereum (Mainnet)** – High security, used for large-value bets and reputation.
 - **Arbitrum** – Ultra-low fees and fast confirmation times with Ethereum-level security.
+
+### Upcoming Chains
+
+- **BNB Smart Chain (BSC)** – Popular chain with high throughput and low gas costs.
 - **zkSync Era** – ZK rollup with cheap transactions and fast finality.
 - **Starknet** – ZK-based L2 designed for scale and advanced computation.
-- **BNB Smart Chain (BSC)** – Popular chain with high throughput and low gas costs.
 
 ### 🧪 Planned / Community-Driven Chains
 
