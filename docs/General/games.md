@@ -8,46 +8,46 @@ Users place bets directly from their wallets — no deposit required.
 
 ---
 
-## 🎮 Available Games
+## Available Games
 
-### 🎲 Dice
+### Dice
 - Choose a number or range (e.g. 1–30 out of 100).
 - Win if the VRF result falls within your selected odds.
 - Simple, fast, and high-volume compatible.
 
-### 🟢 Plinko
+### Plinko
 - Drop a ball into a pyramid-shaped grid.
 - The ball bounces through pegs and lands in a multiplier slot.
 - Higher risk paths offer higher potential returns.
 
-### 🎰 Slots
+### Slots
 - Fully decentralized slot machine with matching reels.
 - Win based on symbol combinations and multiplier tiers.
 - Includes jackpot features and bonus mechanics.
 
-### 💣 Mines
+### Mines
 - Pick safe tiles from a grid while avoiding hidden mines.
 - Each correct pick increases the multiplier.
 - Cash out at any time — but one wrong click ends the round!
 
-### 🃏 Video Poker
+### Video Poker
 - Receive five cards.
 - Choose which to keep and which to redraw.
 - Win based on standard poker hands and payout tables.
 
-### ✊ Rock Paper Scissors
+### Rock Paper Scissors
 - Bet against the smart contract in a classic game.
 - Choose your move and wait for Chainlink VRF to pick the opponent's.
 - 1.98x payout on win (2% fee).
 
-### 🪙 Coin Flip
+### Coin Flip
 - The ultimate 50/50 bet.
 - Heads or Tails, provably fair and fast resolution.
 - Simple game for whales and casuals alike.
 
 ---
 
-## 🛠 Powered by Chainlink VRF
+## Powered by Chainlink VRF
 
 Every game relies on **on-chain verified randomness**. This ensures:
 
@@ -57,7 +57,7 @@ Every game relies on **on-chain verified randomness**. This ensures:
 
 ---
 
-## 💡 User-Created Games
+## User-Created Games
 
 Anyone can propose and deploy new games to Vault777:
 
@@ -67,7 +67,7 @@ Anyone can propose and deploy new games to Vault777:
 
 ---
 
-## 👾 Example Flow (Mines Game)
+## Example Flow (Mines Game)
 
 1. Sarah connects her wallet and chooses Mines.
 2. She picks a 5x5 board with 3 mines and bets 100 USDC.
@@ -76,7 +76,7 @@ Anyone can propose and deploy new games to Vault777:
 
 ---
 
-## 🔐 Transparency & Fairness
+## Transparency & Fairness
 
 - Game logic is deployed as immutable smart contracts.
 - All VRF calls and results are stored on-chain.
@@ -84,7 +84,7 @@ Anyone can propose and deploy new games to Vault777:
 
 ---
 
-## 🧭 Roadmap for Future Games
+## Roadmap for Future Games
 
 Planned community-votable additions:
 
@@ -99,4 +99,4 @@ Planned community-votable additions:
 
 Vault777’s Games Ecosystem blends **classic gameplay with DeFi mechanics**, giving players transparency, control, and on-chain fairness across a variety of high-quality games.
 
-🎮 **Play the classics. Master the new. Win on-chain.**
+**Play the classics. Master the new. Win on-chain.**

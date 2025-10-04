@@ -19,7 +19,7 @@ Vault777 is Web3-native and non-custodial. To begin:
   - Starknet (Soon)
   
 
-> 🔐 Your funds stay in your wallet. No deposits required.
+> Your funds stay in your wallet. No deposits required.
 
 ---
 
@@ -27,13 +27,13 @@ Vault777 is Web3-native and non-custodial. To begin:
 
 Once connected, you’ll see the full game catalog. Vault777 currently supports:
 
-- 🎲 Dice
-- 🟢 Plinko
-- 🎰 Slots
-- 💣 Mines
-- 🃏 Video Poker
-- ✊ Rock Paper Scissors
-- 🪙 Coin Flip
+- Dice
+- Plinko
+- Slots
+- Mines
+- Video Poker
+- Rock Paper Scissors
+- Coin Flip
 
 Click into any game to view rules, multipliers, and payout mechanics.
 
@@ -56,9 +56,9 @@ The game will resolve in seconds using **Chainlink VRF** to generate a provably 
 
 By playing, you automatically earn:
 
-- 🎟 Leaderboard Points
-- 🪙 V777 Token Rewards (based on fee %)
-- 🎁 Airdrop eligibility (tracked by wallet activity)
+- Leaderboard Points
+- V777 Token Rewards (based on fee %)
+- Airdrop eligibility (tracked by wallet activity)
 
 ---
 

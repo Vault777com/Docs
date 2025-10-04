@@ -20,7 +20,7 @@ Vault777 supports a range of EVM-compatible chains with more to come via DAO gov
 - **zkSync Era** – ZK rollup with cheap transactions and fast finality.
 - **Starknet** – ZK-based L2 designed for scale and advanced computation.
 
-### 🧪 Planned / Community-Driven Chains
+### Planned / Community-Driven Chains
 
 - Polygon (MATIC)
 - Avalanche (AVAX)
@@ -33,10 +33,10 @@ Vault777 supports a range of EVM-compatible chains with more to come via DAO gov
 
 Vault777’s multi-chain architecture offers:
 
-- 💸 **Lower Fees** – Choose a chain with the most favorable gas costs.
-- ⚡ **Faster Gameplay** – Sub-second confirmations on L2s and BSC.
-- 🌍 **Global Access** – Players on any major network can participate.
-- 🔁 **Liquidity Efficiency** – Spread treasury and LP management across ecosystems.
+- **Lower Fees** – Choose a chain with the most favorable gas costs.
+- **Faster Gameplay** – Sub-second confirmations on L2s and BSC.
+- **Global Access** – Players on any major network can participate.
+- **Liquidity Efficiency** – Spread treasury and LP management across ecosystems.
 
 ---
 
@@ -88,4 +88,4 @@ Vault777 DAO will decide:
 
 Vault777’s multi-chain architecture makes it a truly **borderless, gas-optimized, and scalable** decentralized casino. Whether you're betting on Arbitrum, zkSync, or BNB Chain, you’re playing with fairness, speed, and full transparency.
 
-🌐 **Pick your chain. Place your bet. Win on your terms.**
+**Pick your chain. Place your bet. Win on your terms.**

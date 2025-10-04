@@ -8,24 +8,24 @@ From viral tweets to onboarding friends, every contribution counts.
 
 ---
 
-## 📣 Social Engagement Rewards
+## Social Engagement Rewards
 
 Users can earn points by linking their social accounts and posting content about Vault777.
 
-### ✅ Supported Platforms
+### Supported Platforms
 
 - **Twitter (X)** – Tweets, threads, memes
 - **TikTok** – Gameplay, reactions, promos
 - **YouTube** – Reviews, breakdowns, tutorials
 - **Others** – Added based on community demand
 
-### 📊 Metrics That Matter
+### Metrics That Matter
 
 - Likes, views, comments, shares
 - Follower-to-engagement ratio
 - Unique reach and conversions
 
-### 💎 Reward Examples
+### Reward Examples
 
 | Action                              | Points  |
 |-------------------------------------|---------|
@@ -34,21 +34,21 @@ Users can earn points by linking their social accounts and posting content about
 | YouTube video with 500+ views       | 250 pts |
 | Viral meme or influencer repost     | Up to 300 pts |
 
-> ✅ All content must be linked to your wallet. Rewards are based on quality and real reach.
+> All content must be linked to your wallet. Rewards are based on quality and real reach.
 
 ---
 
-## 🤝 Referral Program
+## Referral Program
 
 Each user gets a unique referral link. When new players use it to join and bet, you earn.
 
-### 💼 Structure
+### Structure
 
 - Earn % of referred user’s fee contribution
 - Referral earnings paid in V777 or points
 - Bonus tiers unlocked with more referrals
 
-### 🧱 Tiered Rewards
+### Tiered Rewards
 
 | Tier     | Referrals | Bonus % | Extras                  |
 |----------|-----------|---------|--------------------------|
@@ -58,7 +58,7 @@ Each user gets a unique referral link. When new players use it to join and bet, 
 
 ---
 
-## 🎯 Leaderboard Tie-in
+## Leaderboard Tie-in
 
 Referral performance and social impact are tracked in leaderboard categories:
 
@@ -70,7 +70,7 @@ These categories contribute to airdrop scores and point multipliers.
 
 ---
 
-## 🔐 Anti-Sybil / Anti-Spam
+## Anti-Sybil / Anti-Spam
 
 To ensure fairness:
 
@@ -80,7 +80,7 @@ To ensure fairness:
 
 ---
 
-## 📦 Reward Distribution
+## Reward Distribution
 
 - Rewards are distributed per epoch
 - Unclaimed rewards roll over or go to DAO
@@ -92,4 +92,4 @@ To ensure fairness:
 
 Vault777 rewards the people who help build its world. Whether you're dropping memes, making videos, or bringing in whales — you’re part of the house.
 
-📣 **Speak up, show off, and earn.**
+**Speak up, show off, and earn.**

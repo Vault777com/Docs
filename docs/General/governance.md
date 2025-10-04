@@ -6,15 +6,15 @@ Vault777 is governed by a **decentralized autonomous organization (DAO)** powere
 
 ---
 
-## 🗳 Governance Model
+## Governance Model
 
-### 🧠 One Token, One Vote
+### One Token, One Vote
 
 - Each $V777 token equals one governance vote.
 - Tokens can be **delegated** to trusted representatives.
 - Both **staked** and **vested** tokens retain full voting power.
 
-### 🧾 Proposal Lifecycle
+### Proposal Lifecycle
 
 1. **Proposal Submission**  
    Users with a minimum token threshold can create proposals via smart contract.
@@ -27,7 +27,7 @@ Vault777 is governed by a **decentralized autonomous organization (DAO)** powere
 
 ---
 
-## 💰 DAO Treasury Management
+## DAO Treasury Management
 
 The DAO oversees a transparent multi-chain treasury funded by:
 
@@ -46,7 +46,7 @@ The DAO oversees a transparent multi-chain treasury funded by:
 
 ---
 
-## ⚙️ Adjustable Parameters
+## Adjustable Parameters
 
 Governance proposals can modify:
 
@@ -59,7 +59,7 @@ Governance proposals can modify:
 
 ---
 
-## 🛡 Team Voting Power & Vesting
+## Team Voting Power & Vesting
 
 - Team and early contributors have **vested tokens** with full voting rights.
 - Voting power is visible on-chain.
@@ -67,7 +67,7 @@ Governance proposals can modify:
 
 ---
 
-## 📥 How to Participate
+## How to Participate
 
 1. Acquire V777 via staking, playing, or open markets.
 2. Delegate or use your votes directly.
@@ -76,7 +76,7 @@ Governance proposals can modify:
 
 ---
 
-## 🔮 Future Governance Features
+## Future Governance Features
 
 - Cross-chain proposal relayers for multi-network decisions
 - Game-specific governance forums and voting rights
@@ -89,4 +89,4 @@ Governance proposals can modify:
 
 Vault777’s DAO empowers its community to shape the future of on-chain gaming. With transparent voting and full treasury control, every player can become a stakeholder.
 
-🏛️ **Bet. Earn. Govern. Own the house.**
+**Bet. Earn. Govern. Own the house.**

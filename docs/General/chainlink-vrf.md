@@ -20,9 +20,9 @@ Vault777 integrates **Chainlink VRF (Verifiable Random Function)** to ensure ful
 
 ### Key Benefits:
 
-- 🔒 **Tamper-Proof Randomness** – No entity can influence the outcome.  
-- ✅ **On-Chain Verifiability** – Anyone can audit and confirm the randomness.  
-- 🌐 **Decentralized Oracle Network** – Prevents single points of failure.  
+- **Tamper-Proof Randomness** – No entity can influence the outcome.  
+- **On-Chain Verifiability** – Anyone can audit and confirm the randomness.  
+- **Decentralized Oracle Network** – Prevents single points of failure.
 
 ---
 
@@ -45,9 +45,9 @@ Vault777 is committed to **provably fair** gaming, ensuring players have confide
 
 Vault777 ensures that every game follows a **fully auditable** process:
 
-- 📄 All Chainlink VRF calls are recorded on-chain.  
-- 🔍 Users can verify outcomes using blockchain explorers.  
-- 🔐 Each result includes a cryptographic proof for validation.  
+- All Chainlink VRF calls are recorded on-chain.  
+- Users can verify outcomes using blockchain explorers.  
+- Each result includes a cryptographic proof for validation.
 
 ---
 
