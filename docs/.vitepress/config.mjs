@@ -7,7 +7,10 @@ export default defineConfig({
   lang: 'en-US',
   title: "VAULT777 Docs",
   description: "Official documentation for Vault777 — the decentralized on-chain casino.",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['script', { defer: true, src: 'https://insights.vault777.com/script.js', 'data-website-id': process.env.UMAMI_WEBSITE_ID }]
+  ],
   //lastUpdated: true,
   locales: {
     root: {
