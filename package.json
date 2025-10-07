@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "dotenv": "^17.2.3",
     "vitepress": "^2.0.0-alpha.4"
   },
   "scripts": {
