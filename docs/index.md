@@ -45,8 +45,13 @@ features:
   - title: LP & Treasury Yield
     details: Provide liquidity to earn yield from betting volume. LPs are protected using risk-managed strategies.
     link: /General/kelly-criterion.md
-  - title: Transparent Economics
+  - title: Security and Transperancy
     details: No hidden fees or black-box systems. All earnings, payouts, and emissions are tracked and governed on-chain.
     link: /General/security.md
+  - title: Platform Economics
+    details: 2% betting fee split between treasury and player rewards. Liquidity providers earn from bankroll, developers get 5% of game fees.
+    link: /General/economics.md
+  - title: Token Economics  
+    details: 1B supply $V777 DAO token powers governance, staking rewards, and play-to-earn. Deflationary mechanics through buybacks and burns.
+    link: /General/tokenomics.md
 ---
-
